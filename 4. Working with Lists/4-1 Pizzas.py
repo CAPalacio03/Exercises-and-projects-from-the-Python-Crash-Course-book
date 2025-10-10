@@ -3,7 +3,7 @@ Think of at least three kinds of your favorite pizza. Store these
 pizza names in a list, and then use a for loop to print the name of each pizza.
 """
 
-pizzas = ['Perperoni', 'Mix', 'Mexicana']
+pizzas = ['Perperoni', 'Mix', 'Mexican']
 
 for pizza in pizzas:
     print(pizza)
