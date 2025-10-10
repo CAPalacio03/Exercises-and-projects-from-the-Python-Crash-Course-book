@@ -8,9 +8,8 @@ add a million numbers.
 # Creat a list of numbers
 numbers = list(range(1,1000001))
 
-# The list starts in
 print('The list stars in: ', min(numbers))
 
 print('The list ends in: ', max(numbers))
 
-print('The sum is: ', sum(numbers))
+print('The sum of the list is: ', sum(numbers))
